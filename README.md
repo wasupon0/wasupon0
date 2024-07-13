@@ -3,13 +3,13 @@
 I am a software engineer living in Tokyo. I am passionate about technology and developing software. I have experienced and worked on a variety of projects, including websites, mobile apps, and managing containerized applications for cloud deployment.
 
 ## Tech Stack:
-# Frontend:
+### Frontend:
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,figma)](https://skillicons.dev)
 
-# DevOps / Backend:
+### DevOps / Backend:
 [![My Skills](https://skillicons.dev/icons?i=bash,ansible,postgres,postman,docker,kubernetes,aws,azure)](https://skillicons.dev)
 
-# CI/CD and others:
+### CI/CD and others:
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jenkins,azure,swift,vscode)](https://skillicons.dev)
 
 
