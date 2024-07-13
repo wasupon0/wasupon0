@@ -4,7 +4,9 @@ I am a software engineer living in Tokyo. I am passionate about technology and d
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,figma,bash,ansible,postgres,postman,docker,kubernetes,aws,azure,git,github,gitlab,jenkins,azure,swift,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,ansible,postgres,postman,docker,kubernetes,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jenkins,azure,swift,vscode)](https://skillicons.dev)
 
 <!--
 **wasupon0/wasupon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
