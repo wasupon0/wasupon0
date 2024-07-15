@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 こんにちは !
 
-I am a software engineer living in Tokyo. I am passionate about technology and developing software. I have experienced and worked on a variety of projects, including websites, mobile apps, and managing containerized applications for cloud deployment.
+I'm a software engineer based in Tokyo with a passion for technology and full-stack web development. My experience spans creating dynamic and responsive websites, building user-friendly mobile applications, and managing containerized applications for seamless cloud deployment. I continuously strive to enhance my problem-solving skills and contribute to innovative projects. Feel free to explore my repositories and connect with me!
 
 ## Tech Stack:
 ### Frontend:
