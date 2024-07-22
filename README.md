@@ -12,7 +12,7 @@ I'm a software engineer based in Tokyo with a passion for technology and full-st
 [![My Skills](https://skillicons.dev/icons?i=bash,ansible,postgres,postman,docker,kubernetes,aws,azure)](https://skillicons.dev)
 
 ### CI/CD and others:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jenkins,swift,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,jenkins,swift,xcode)](https://skillicons.dev)
 
 
 <!--
