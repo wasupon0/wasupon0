@@ -1,6 +1,8 @@
-## Hi there 👋 こんにちは !
+## Hello there 👋 こんにちは !
 
 I'm a software engineer based in Tokyo with a passion for technology and full-stack web development. My experience spans creating dynamic and responsive websites, building user-friendly mobile applications, and managing containerized applications for seamless cloud deployment. I continuously strive to enhance my problem-solving skills and contribute to innovative projects. Feel free to explore my repositories and connect with me!
+
+東京に住むソフトウェアエンジニアで、React、Next.js、およびTailwind CSSを使用してダイナミックでレスポンシブWebデザインを作成することに情熱を持っています。ウェブサイト、モバイルアプリ、クラウドなど、さまざまなプロジェクトの経験があり、魅力的で高性能なユーザー体験を提供することに専念しています。
 
 ## Tech Stack:
 ### Frontend:
